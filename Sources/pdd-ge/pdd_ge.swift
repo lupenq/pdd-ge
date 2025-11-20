@@ -1,6 +1,6 @@
 import Foundation
 
-#if canImport(SwiftUI)
+#if os(iOS)
 import SwiftUI
 
 @main
